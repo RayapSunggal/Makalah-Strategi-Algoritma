@@ -28,7 +28,7 @@ Untuk menjalankan aplikasi ini, komputer Anda hanya memerlukan:
 
 1.  Unduh atau salin seluruh kode program dan simpan ke dalam file bernama `BotGUI.java`.
 2.  Buka terminal atau *Command Prompt* (CMD) / PowerShell.
-3.  Arahkan direktori (`cd\src`).
+3.  Arahkan direktori (`cd src`).
 4.  Kompilasi program dengan perintah:
     ```bash
     javac BotGUI.java
